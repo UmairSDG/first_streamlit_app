@@ -3,7 +3,7 @@ import pandas
 
 streamlit.title('My Parents New Healthy Dine')
 
-streamlit.header('Breakfast Favorites')
+streamlit.header('Breakfast Favorit')
 streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
 streamlit.text('🥗 Kale, Spinach & Rocket Snoothie')
 streamlit.text('🐔 Hard-Boiled Free-Range Egg')
